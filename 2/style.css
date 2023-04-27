@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(203, 203, 203);
+    font-size: 12px;
+}
+div, p {
+    border-radius: 5px;
+    margin: 0 2px;
+}
+.container {
+    width: 1200px;
+    margin: 100px auto;
+  
+
+}
+.textarea {
+    width: 1156px;
+    height: 200px;
+    background-color: white;
+    margin-bottom: 10px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    font-size: 40px;
+}
+
+.keyboard_keys {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.key {
+    width: 35px;
+    height: 15px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    margin-top: 10px;
+}
+.m {
+    width: 90px ;
+}
+.l {
+    width: 100px;
+}
+.xl {
+    width: 140px;
+}
+.xxl {
+    width: 1114px;
+}

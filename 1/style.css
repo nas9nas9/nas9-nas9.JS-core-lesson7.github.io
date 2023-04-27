@@ -1,0 +1,88 @@
+.color, .image {
+    font-size: 60px;
+    font-weight: 600;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.container{
+    width: 496px;
+    border: 1px solid black;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    opacity: 0;
+}
+.active{
+    opacity: 1;
+}
+.box{
+    width: 162px;
+    height: 90px;
+    border: 1px solid rgb(0, 0, 0);
+}
+.background{
+    background-color: none;
+    background-image: none;
+    background: no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .active_container {
+    display: none;
+    width: 810px;
+    height: 500px;
+    margin: 0 auto;
+    border: 5px solid black;
+    flex-wrap: wrap;
+}
+.box {
+    float: left;
+    width: 266px;
+    height: 33%;
+    border: 1px solid black;
+}
+.active_box_aqua {
+    background-color:rgb(36, 178, 178);
+} 
+.active_box_brown {
+    background-color: brown;
+}
+.active_box_greenyellow {
+    background-color: greenyellow;
+}
+.active_box_darkmagenta {
+    background-color: darkmagenta;
+}
+.active_box_darkgreen {
+    background-color: darkgreen;
+}
+.active_box_blanchedalmond {
+    background-color:blanchedalmond;
+}
+.active_box_palevioletred{
+    background-color: palevioletred;
+}
+.active_box_orangered {
+    background-color: orangered;
+}
+.active_box_blue {
+    background-color: blue;
+}  */ */
